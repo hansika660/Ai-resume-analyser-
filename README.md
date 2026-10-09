@@ -22,7 +22,7 @@ An AI-powered tool that compares a resume against a job description and shows ho
 4. Show the score and missing keywords
 
 ## Run Locally
-git clone https://github.com/NamithaKoduru/AI-Resume-Analyzer.git
+git clone https://github.com/Hansika uppala/AI-Resume-Analyzer.git
 cd AI-Resume-Analyzer
 pip install -r requirements.txt
 streamlit run app.py
